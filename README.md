@@ -1,12 +1,47 @@
-# React + Vite
+# 🌐 Call of Coders — Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Call of Coders**, a sleek and dynamic portfolio site that showcases my projects and GitHub profile using real-time data from the GitHub API. Built with modern technologies like **React**, **Redux Toolkit**, **TailwindCSS**, and **Vite**, this site is optimized for both performance and style.
 
-Currently, two official plugins are available:
+> 🔗 **Live Preview:** [https://callofcoders.netlify.app](https://callofcoders.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 **Live GitHub Integration** — Displays real-time GitHub bio and repositories
+- ⚙️ **Redux Toolkit** — For scalable and centralized state management
+- 🎨 **TailwindCSS** — Fully responsive and utility-first styling
+- ⚡ **Vite** — Ultra-fast development and build tool
+- 🌐 **React Router DOM** — Smooth single-page navigation
+- 🍞 **React Hot Toast** — Toast notifications with a modern touch
+- ✨ **Framer Motion** — Clean animations and transitions
+- 📝 **React Hook Form** — For flexible and validated form handling
+- 💼 **Project Cards** — Auto-generated from GitHub repos
+
+---
+
+## 🧰 Tech Stack
+
+| Purpose         | Tools / Libraries                      |
+|----------------|------------------------------------------|
+| Frontend        | React 19, Vite                          |
+| State Management| Redux Toolkit, React Redux              |
+| Styling         | TailwindCSS                            |
+| Routing         | React Router DOM                        |
+| Animations      | Framer Motion                          |
+| Notifications   | React Hot Toast                        |
+| Form Handling   | React Hook Form                        |
+| HTTP Requests   | Axios                                  |
+| Linting         | ESLint + Plugins                       |
+
+
+---
+
+## 📦 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/kushkumarkashyap7280/CallOfCoders.git
+cd CallOfCoders
+npm install
